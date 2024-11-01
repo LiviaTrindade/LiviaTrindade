@@ -1,7 +1,7 @@
 <div align="center" >
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0489B1&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5C009A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0489B1&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!!;Sou+o+Rafael+Augusto;Seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5C009A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!!;Sou+a+Livia+Trindade;Seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
 
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
